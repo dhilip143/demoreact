@@ -1,0 +1,10 @@
+.ind{
+  height:200px;
+  width:200px;
+  background-color: aqua;
+  align-items: center;
+  justify-content: center;
+}
+.ind{
+  display: flex;
+}
